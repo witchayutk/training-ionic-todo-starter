@@ -1,0 +1,36 @@
+.todo-container {
+    background: #eaeaea;
+}
+
+.todo-list .item {
+    background: #eaeaea;
+}
+
+.todo-list .item .title {
+    background: #eaeaea;
+    font-size: 13px;
+}
+
+.todo-list .item-icon-left {
+    padding-left: 32px;
+}
+
+.todo-list .item-icon-left i.icon {
+    font-size: 18px;
+    color: #F2B429;
+    left: 0;
+}
+
+.todo-list .item-icon-right {
+    padding-right: 32px;
+}
+
+.todo-list .item-icon-right i.right {
+	font-size: 14px;
+    color: #B2B2B2;
+}
+
+.todo-list .item .item-note {
+    font-size: 12px;
+    color: #65B5B6;
+}
