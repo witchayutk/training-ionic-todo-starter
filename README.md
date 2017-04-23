@@ -1,21 +1,21 @@
-# training-ionic-todo-starter
-Starter for ionic training workshop todo app
+# Ionic Training with Todo App Starter
+Starter template for ionic training 'simple todo application'
 
 ## How to use this template
 
-### Run Ionic CLI in Terminal or Command Prompt to create project:
+#### Run Ionic CLI in Terminal or Command Prompt to create project:
 
 ```bash
 $ ionic start TodoApp https://github.com/witchayutk/training-ionic-todo-starter
 ```
 
-### Go to 'TodoApp' folder 
+#### Go to 'TodoApp' folder 
 
 ```bash
 $ cd TodoApp
 ```
 
-Run TodoApp in ionic server
+#### Run TodoApp in ionic server
 
 ```bash
 $ ionic serve
